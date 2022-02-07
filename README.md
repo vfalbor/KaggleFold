@@ -1,6 +1,6 @@
 # KaggleFold
 
-### Making Protein folding accessible to all via Google Kaggle!
+### Making Protein folding accessible to all via Kaggle!
 
 | Notebooks | monomers | complexes | mmseqs2 | jackhmmer | templates   |
 | :-------- | -------  | --------- | ------- | --------- | ----------- |
