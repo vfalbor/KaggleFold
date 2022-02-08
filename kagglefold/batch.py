@@ -923,7 +923,7 @@ def run(
     zip_results: bool = False,
     prediction_callback: Callable[[Any, Any, Any, Any], Any] = None,
 ):
-    version = importlib_metadata.version("colabfold")
+    version = importlib_metadata.version("kagglefold")
     commit = get_commit()
     if commit:
         version += f" ({commit})"
@@ -968,7 +968,7 @@ def run(
         "recompile_padding": recompile_padding,
         "recompile_all_models": recompile_all_models,
         "commit": get_commit(),
-        "version": importlib_metadata.version("colabfold"),
+        "version": importlib_metadata.version("kagglefold"),
     }
     config_out_file = result_dir.joinpath("config.json")
     config_out_file.write_text(json.dumps(config, indent=4))

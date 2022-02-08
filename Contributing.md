@@ -40,7 +40,7 @@ We clone to _directory to avoid python from importing from the directory.
 %%bash
 
 pip install -U pip
-git clone https://github.com/vfalbor/Colabfold _kagglefold
+git clone https://github.com/vfalbor/KaggleFold _kagglefold
 pip install _kagglefold
 # Unholy Hack: Use the files from our cloned git repository instead of installed copy
 site_packages=$(python -c 'import site; print(site.getsitepackages()[0])')
