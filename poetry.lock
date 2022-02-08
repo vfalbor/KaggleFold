@@ -11,7 +11,7 @@ six = "*"
 
 [[package]]
 name = "alphafold-kagglefold"
-version = "2.1.4"
+version = "1.0"
 description = "An implementation of the inference pipeline of AlphaFold v2.0.This is a completely new model that was entered as AlphaFold2 in CASP14 and published in Nature. This package contains patches for kagglefold"
 category = "main"
 optional = true
