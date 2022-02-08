@@ -1712,8 +1712,8 @@ absl-py = [
     {file = "absl_py-0.13.0-py3-none-any.whl", hash = "sha256:62bd4e248ddb19d81aec8f9446b407ff37c8175c2ba88266a7afa9b4ce4a333b"},
 ]
 alphafold-kagglefold = [
-    {file = "alphafold-kagglefold-2.1.4.tar.gz", hash = "sha256:265a4ca4cdaf28bdb6c69287de968320401993b3126db6e02d912e0b9c97fd22"},
-    {file = "alphafold_kagglefold-2.1.4-py3-none-any.whl", hash = "sha256:c186029c02279962bc198b2775e14392a4757dba3ee6c1ff09fa8c99c8a7f50b"},
+    {file = "alphafold-kagglefold-1.0.tar.gz", hash = "sha256:670de5323c2a670f9917e50b9024dc20828bae93a1c6f283fd5450cf0133f627"},
+    {file = "alphafold_kagglefold-1.0-py3-none-any.whl", hash = "sha256:3a37ec4070b50fd1eb82c04a24bfcc928f8c1592bef949bba6c46ec404969847"},
 ]
 appdirs = [
     {file = "appdirs-1.4.4-py2.py3-none-any.whl", hash = "sha256:a841dacd6b99318a741b166adb07e19ee71a274450e68237b4650ca1055ab128"},
